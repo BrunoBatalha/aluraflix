@@ -1,185 +1,169 @@
 {
-    "categorias": [
-      {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
-        },
-        "videos": [
-          {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-          },
-          {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-          },
-          {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-          },
-          {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-          },
-          {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-          },
-          {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-          },
-          {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-          },
-          {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          }        
-        ]
+  "categorias": [
+    {
+      "titulo": "ADC",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Fiv5",
+        "url": "https://www.youtube.com/channel/UCkG9YvPeluSxv28LmZPdxkA"
       },
-      {
-        "titulo": "Back End",
-        "cor": "#00C86F",
-        "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
+      "videos": [
+        {
+          "titulo": "TESTEI A ASHE ADC DO JOGADOR PROFISSIONAL SNEAKY DE MURAMANA, SERÁ QUE É VIÁVEL?",
+          "url": "https://www.youtube.com/watch?v=f3fsHf46XZEhttps://youtu.be/f3fsHf46XZE"
         },
-        "videos": [
-          {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-          },
-          {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-          },
-          {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-          },
-          {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-          }, 
-          {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-          }
-        ]
-      },
-      {
-        "titulo": "Data Science e Inteligência Artificial",
-        "cor": "#9cd33b",
-        "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/formacao-data-science"
+        {
+          "titulo": "E O META MUDA MAIS UMA VEZ - SENNA ADC FARMANDO COM GELINHO + LETALIDADE VOLTOU - League of Legends",
+          "url": "https://www.youtube.com/watch?v=SqgFOo85wRM&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd"
         },
-        "videos": [
-          {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-          },
-          {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-          },
-          {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-          },
-          {
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-          }
-        ]
-      },
-      {
-        "titulo": "Filmes",
-        "cor": "orange",
-        "videos": [
-          {
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-          },
-          {
-            "titulo": "Gattaca",
-            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-          },
-          {
-            "titulo": "A Chegada",
-            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-          },
-          {
-            "titulo": "Feitiço do Tempo",
-            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-          }
-        ]
-      },
-      {
-        "titulo": "Games",
-        "cor": "red",
-        "link_extra": {
-          "text": "Formação de Jogos na Alura",
-          "url": "https://www.alura.com.br/formacao-jogos-unity"
+        {
+          "titulo": "O COMBO PRA GANHAR QUALQUER LANE PHASE NO BOT - PANTHEON SUP E DRAVEN ADC - League of Legends",
+          "url": "https://www.youtube.com/watch?v=JEobfM8eEBs&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=4"
         },
-        "videos": [
-          {
-            "titulo": "Final Fantasy 7",
-            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-          },
-          {
-            "titulo": "Assassins Creed Valhalla",
-            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-          },
-          {
-            "titulo": "God of War 4",
-            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-          },
-          {
-            "titulo": "Resident Evil 8",
-            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-          },
-          {
-            "titulo": "Pokémon Let's Go Pikachu/Eevee",
-            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-          }
-        ]
-      },
-      {
-        "titulo": "Aprendendo a aprender tecnologia",
-        "cor": "#6b5be2",
-        "link_extra": {
-          "text": "Curso sobre aprendizado na Alura",
-          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        {
+          "titulo": "SERÁ QUE CAPRICHARAM MESMO NA NOVA SKIN DA VAYNE SPIRIT BLOSSOM? - ft.Zbardo - League of Legends",
+          "url": "https://www.youtube.com/watch?v=Ujs6mWRVI6o&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=6"
         },
-        "videos": [
-          {
-            "titulo": "Como estudar melhor?",
-            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-          },
-          {
-            "titulo": "Faculdade",
-            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-          },
-          {
-            "titulo": "Frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          },
-          {
-            "titulo": "A mágica do Aprendizado",
-            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-          },
-          {
-            "titulo": "Como aprender a programar?",
-            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-          }
-        ]
-      }
-    ]
-  }
+        {
+          "titulo": "A COMP DE ULTIMATE GLOBAL - ASHE, SENNA, EZREAL, KARTHUS E GANGPLANK APERTANDO R - League of Legends",
+          "url": "https://www.youtube.com/watch?v=KTV7Kvd1j7U&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=2"
+        }
+      ]
+    },
+    {
+      "titulo": "MID",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Fiv5",
+        "url": "https://www.youtube.com/channel/UCkG9YvPeluSxv28LmZPdxkA"
+      },
+      "videos": [
+        {
+          "titulo": "USEI O NOVO CAMPEÃO, YONE GAMEPLAY - BATI X1 COM MEU IRMÃO YASUO E AMASSEI ELE! - League of Legends",
+          "url": "https://www.youtube.com/watch?v=lt3eiJzogac&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz"
+        },
+        {
+          "titulo": "BUFARAM O ATACKSPEED DA PASSIVA DELA - IRELIA MID PRECISA TER MECÂNICA OU NÃO? - League of Legends",
+          "url": "https://www.youtube.com/watch?v=_T1MmOAuf44&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=2"
+        },
+        {
+          "titulo": "ESSE JOGO FOI TÃO TROLL QUE TEVE ATÉ DIAMANTE 2 QUITANDO - KAYN MID GAMEPLAY - League of Legends",
+          "url": "https://www.youtube.com/watch?v=t3gR97IUXM4&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=3"
+        },
+        {
+          "titulo": "ESSE JOGO FOI DIFÍCIL CARREGAR - NAUTILUS MID AP DANDO MAIS DE 40MIL DE DANO! - League of Legends",
+          "url": "https://www.youtube.com/watch?v=v7PPeYUZ_ks&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "TOP",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Fiv5",
+        "url": "https://www.youtube.com/channel/UCkG9YvPeluSxv28LmZPdxkA"
+      },
+      "videos": [
+        {
+          "titulo": "O CARA CHAMOU A GENTE DE \"ESQUISITOS DO CARAL** \" - BUFARAM O SHIELD DO SHEN TOP - League of Legends",
+          "url": "https://www.youtube.com/watch?v=LLSDiAexs2g&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=2"
+        },
+        {
+          "titulo": "RELEMBREI OS VELHOS TEMPOS - TRISTANA DE GUINSO E RUNAAN NO TOP FUNCIONA AINDA? - League of Legends",
+          "url": "https://www.youtube.com/watch?v=-Cx4Fez4Sus&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=3"
+        },
+        {
+          "titulo": "TENTARAM NERFAR O EZREAL - LANCEI ELE TOP COM UMA BUILD TANK, DEI 40 MIL DE DANO - League of Legends",
+          "url": "https://www.youtube.com/watch?v=yBnGikTjMCA&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=4"
+        },
+        {
+          "titulo": "A COMBINAÇÃO PERFEITA PRO URGOT - CUTELO E DANÇA DA MORTE É SURREAL PRA ELE - League of Legends",
+          "url": "https://www.youtube.com/watch?v=RM11i-avlLo&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "JUNGLE",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Fiv5",
+        "url": "https://www.youtube.com/channel/UCkG9YvPeluSxv28LmZPdxkA"
+      },
+      "videos": [
+        {
+          "titulo": "DEI UM QUADRA KILL DE KHA'ZIX JUNGLE - BUFARAM PRA 120% O DANO EM ALVO ISOLADO - League of Legends",
+          "url": "https://www.youtube.com/watch?v=SZbVrHCgmAM&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA"
+        },
+        {
+          "titulo": "NOVA CAMPEÃ LILLIA GAMEPLAY - ULT MEGA ROUBADA - MISTURA DE NEEKO COM HECARIM - League of Legends",
+          "url": "https://www.youtube.com/watch?v=Y7N9Aqa-XPk&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=2"
+        },
+        {
+          "titulo": "PRIMEIRA VEZ COM O NOVO VOLIBEAR E FIZEMOS UM MONO KASSADIN DIAMANTE 1 QUITAR - League of legends",
+          "url": "https://www.youtube.com/watch?v=4t5NNGKgMJE&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=3"
+        },
+        {
+          "titulo": "QUASE INFARTEI COM ESSE GAME - TESTEI UMA BUILD DE CURA PRO WARWICK AD JUNGLE - League of Legends",
+          "url": "https://www.youtube.com/watch?v=yG9ZqvDdWow&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "SUP",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Fiv5",
+        "url": "https://www.youtube.com/channel/UCkG9YvPeluSxv28LmZPdxkA"
+      },
+      "videos": [
+        {
+          "titulo": "QUEM DISSE QUE SUPORTE NÃO CARREGA? - COMPOSIÇÃO DE 5 SUPORTES NO MESMO TIME - League of Legends",
+          "url": "https://www.youtube.com/watch?v=SsTzBCNGOOI&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C"
+        },
+        {
+          "titulo": "OUTRO CAMPEÃO CARRY COM ITEM DE SUPORTE - DIANA DE TURÍBULO - PRIMEIRO GAME COM O REWORK NO BR! - League of Legends",
+          "url": "https://www.youtube.com/watch?v=QaKDPY6E_UE&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=3"
+        },
+        {
+          "titulo": "O NOVO META COREANO DE ASHE ADC COM ITEM DE SUPORTE, COMETA E UM GALIO FULL AP SUPORTE! - League of Legends",
+          "url": "https://www.youtube.com/watch?v=2N54RNBiH-U&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=4"
+        },
+        {
+          "titulo": "CAMPEÃO DA MUITO DANO COMO SUPORTE OU MID - ZYRA FULL AP É IMORAL MESMO - League of Legends",
+          "url": "https://www.youtube.com/watch?v=ll6IV3f8FZI&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=6"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
