@@ -10,7 +10,7 @@ function Footer() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img src={Logo} alt="Logo Alura" />
+        <img src={Logo} alt="Github Bruno Batalha" width="100" />
       </a>
       <p>
         Orgulhosamente criado durante a{" "}
