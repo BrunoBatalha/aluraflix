@@ -25,7 +25,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'http://localhost:3333/categorias';
+    const URL = `${process.env.REACT_APP_BACKEND}/categorias`;
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
