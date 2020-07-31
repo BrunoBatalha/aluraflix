@@ -5,8 +5,9 @@ import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 
 function CadastroCategoria() {
+  const URL = `${process.env.REACT_APP_BACKEND}/categorias`;
   const valoresIniciais = {
-    nome: '',
+    titulo: '',
     descricao: '',
     cor: '#000',
   };
@@ -19,39 +20,53 @@ function CadastroCategoria() {
       [chave]: valor,
     });
   }
-
-  function handleChange(e) {
-    setValue(e.target.name, e.target.value);
-  }
-
   useEffect(() => {
-    const URL = `${process.env.REACT_APP_BACKEND}/categorias`;
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([...resposta]);
       });
-  }, []);
+  }, [URL]);
+
+  function handleChange(e) {
+    setValue(e.target.name, e.target.value);
+  }
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    setCategorias([...categorias, values]);
+
+    const config = {
+      method: 'POST',
+      body: JSON.stringify(values),
+      headers: { 'Content-type': 'application/json; charset=UTF-8' },
+    };
+
+    fetch(URL, config)
+      .then(async (respostaDoServidor) => {
+        if (respostaDoServidor.status) {
+          alert('Categoria criada com sucesso!');
+        }
+      });
+
+    setValues(valoresIniciais);
+  }
 
   return (
     <PageDefault>
       <h1>
         Cadastro de categoria:
         {' '}
-        {values.nome}
+        {values.titulo}
       </h1>
       <form
-        onSubmit={function handleSubmit(e) {
-          e.preventDefault();
-          setCategorias([...categorias, values]);
-          setValues(valoresIniciais);
-        }}
+        onSubmit={handleSubmit}
       >
         <FormField
-          label="Nome da Categoria"
+          label="Título da Categoria"
           type="text"
-          name="nome"
-          value={values.nome}
+          name="titulo"
+          value={values.titulo}
           onChange={handleChange}
         />
 
@@ -75,13 +90,13 @@ function CadastroCategoria() {
       </form>
 
       {categorias.length === 0
-      && (
-        <div>
-          Loading
-        </div>
-      )}
+        && (
+          <div>
+            Loading
+          </div>
+        )}
       <ul>
-        {categorias.map((categoria, index) => <li key={`${index + 1}`}>{categoria.nome}</li>)}
+        {categorias.map((categoria, index) => <li key={`categoria${index + 1}`}>{categoria.titulo}</li>)}
       </ul>
 
       <Link to="/">Ir para home</Link>
