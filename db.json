@@ -54,129 +54,135 @@
   "videos": [
     {
       "id": 0,
-      "categoriaId": 1,
+      "categoriaId": 0,
       "titulo": "TESTEI A ASHE ADC DO JOGADOR PROFISSIONAL SNEAKY DE MURAMANA, SERÁ QUE É VIÁVEL?",
       "url": "https://www.youtube.com/watch?v=f3fsHf46XZEhttps://youtu.be/f3fsHf46XZE"
     },
     {
       "id": 1,
-      "categoriaId": 1,
+      "categoriaId": 0,
       "titulo": "E O META MUDA MAIS UMA VEZ - SENNA ADC FARMANDO COM GELINHO + LETALIDADE VOLTOU - League of Legends",
       "url": "https://www.youtube.com/watch?v=SqgFOo85wRM&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd"
     },
     {
       "id": 2,
-      "categoriaId": 1,
+      "categoriaId": 0,
       "titulo": "O COMBO PRA GANHAR QUALQUER LANE PHASE NO BOT - PANTHEON SUP E DRAVEN ADC - League of Legends",
       "url": "https://www.youtube.com/watch?v=JEobfM8eEBs&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=4"
     },
     {
       "id": 3,
-      "categoriaId": 1,
+      "categoriaId": 0,
       "titulo": "SERÁ QUE CAPRICHARAM MESMO NA NOVA SKIN DA VAYNE SPIRIT BLOSSOM? - ft.Zbardo - League of Legends",
       "url": "https://www.youtube.com/watch?v=Ujs6mWRVI6o&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=6"
     },
     {
       "id": 4,
-      "categoriaId": 1,
+      "categoriaId": 0,
       "titulo": "A COMP DE ULTIMATE GLOBAL - ASHE, SENNA, EZREAL, KARTHUS E GANGPLANK APERTANDO R - League of Legends",
       "url": "https://www.youtube.com/watch?v=KTV7Kvd1j7U&list=PLM_Yrr1H1cg7i9Yl-35ndeI-yDG5RAaQd&index=2"
     },
     {
       "id": 5,
-      "categoriaId": 2,
+      "categoriaId": 1,
       "titulo": "USEI O NOVO CAMPEÃO, YONE GAMEPLAY - BATI X1 COM MEU IRMÃO YASUO E AMASSEI ELE! - League of Legends",
       "url": "https://www.youtube.com/watch?v=lt3eiJzogac&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz"
     },
     {
       "id": 6,
-      "categoriaId": 2,
+      "categoriaId": 1,
       "titulo": "BUFARAM O ATACKSPEED DA PASSIVA DELA - IRELIA MID PRECISA TER MECÂNICA OU NÃO? - League of Legends",
       "url": "https://www.youtube.com/watch?v=_T1MmOAuf44&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=2"
     },
     {
       "id": 7,
-      "categoriaId": 2,
+      "categoriaId": 1,
       "titulo": "ESSE JOGO FOI TÃO TROLL QUE TEVE ATÉ DIAMANTE 2 QUITANDO - KAYN MID GAMEPLAY - League of Legends",
       "url": "https://www.youtube.com/watch?v=t3gR97IUXM4&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=3"
     },
     {
       "id": 8,
-      "categoriaId": 2,
+      "categoriaId": 1,
       "titulo": "ESSE JOGO FOI DIFÍCIL CARREGAR - NAUTILUS MID AP DANDO MAIS DE 40MIL DE DANO! - League of Legends",
       "url": "https://www.youtube.com/watch?v=v7PPeYUZ_ks&list=PLM_Yrr1H1cg7e6ATUWNQMDp_MnyWk9Vjz&index=4"
     },
     {
       "id": 9,
-      "categoriaId": 3,
+      "categoriaId": 2,
       "titulo": "O CARA CHAMOU A GENTE DE \"ESQUISITOS DO CARAL** \" - BUFARAM O SHIELD DO SHEN TOP - League of Legends",
       "url": "https://www.youtube.com/watch?v=LLSDiAexs2g&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=2"
     },
     {
       "id": 10,
-      "categoriaId": 3,
+      "categoriaId": 2,
       "titulo": "RELEMBREI OS VELHOS TEMPOS - TRISTANA DE GUINSO E RUNAAN NO TOP FUNCIONA AINDA? - League of Legends",
       "url": "https://www.youtube.com/watch?v=-Cx4Fez4Sus&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=3"
     },
     {
       "id": 11,
-      "categoriaId": 3,
+      "categoriaId": 2,
       "titulo": "TENTARAM NERFAR O EZREAL - LANCEI ELE TOP COM UMA BUILD TANK, DEI 40 MIL DE DANO - League of Legends",
       "url": "https://www.youtube.com/watch?v=yBnGikTjMCA&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=4"
     },
     {
       "id": 12,
-      "categoriaId": 3,
+      "categoriaId": 2,
       "titulo": "A COMBINAÇÃO PERFEITA PRO URGOT - CUTELO E DANÇA DA MORTE É SURREAL PRA ELE - League of Legends",
       "url": "https://www.youtube.com/watch?v=RM11i-avlLo&list=PLM_Yrr1H1cg5_yBtCPOJfd2M4p4l7CMuU&index=5"
     },
     {
       "id": 13,
-      "categoriaId": 4,
+      "categoriaId": 3,
       "titulo": "DEI UM QUADRA KILL DE KHA'ZIX JUNGLE - BUFARAM PRA 120% O DANO EM ALVO ISOLADO - League of Legends",
       "url": "https://www.youtube.com/watch?v=SZbVrHCgmAM&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA"
     },
     {
       "id": 14,
-      "categoriaId": 4,
+      "categoriaId": 3,
       "titulo": "NOVA CAMPEÃ LILLIA GAMEPLAY - ULT MEGA ROUBADA - MISTURA DE NEEKO COM HECARIM - League of Legends",
       "url": "https://www.youtube.com/watch?v=Y7N9Aqa-XPk&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=2"
     },
     {
       "id": 15,
-      "categoriaId": 4,
+      "categoriaId": 3,
       "titulo": "PRIMEIRA VEZ COM O NOVO VOLIBEAR E FIZEMOS UM MONO KASSADIN DIAMANTE 1 QUITAR - League of legends",
       "url": "https://www.youtube.com/watch?v=4t5NNGKgMJE&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=3"
     },
     {
       "id": 16,
-      "categoriaId": 4,
+      "categoriaId": 3,
       "titulo": "QUASE INFARTEI COM ESSE GAME - TESTEI UMA BUILD DE CURA PRO WARWICK AD JUNGLE - League of Legends",
       "url": "https://www.youtube.com/watch?v=yG9ZqvDdWow&list=PLM_Yrr1H1cg64wtIpu4JGI9bbzDXp4cQA&index=4"
     },
     {
       "id": 17,
-      "categoriaId": 5,
+      "categoriaId": 4,
       "titulo": "QUEM DISSE QUE SUPORTE NÃO CARREGA? - COMPOSIÇÃO DE 5 SUPORTES NO MESMO TIME - League of Legends",
       "url": "https://www.youtube.com/watch?v=SsTzBCNGOOI&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C"
     },
     {
       "id": 18,
-      "categoriaId": 5,
+      "categoriaId": 4,
       "titulo": "OUTRO CAMPEÃO CARRY COM ITEM DE SUPORTE - DIANA DE TURÍBULO - PRIMEIRO GAME COM O REWORK NO BR! - League of Legends",
       "url": "https://www.youtube.com/watch?v=QaKDPY6E_UE&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=3"
     },
     {
       "id": 19,
-      "categoriaId": 5,
+      "categoriaId": 4,
       "titulo": "O NOVO META COREANO DE ASHE ADC COM ITEM DE SUPORTE, COMETA E UM GALIO FULL AP SUPORTE! - League of Legends",
       "url": "https://www.youtube.com/watch?v=2N54RNBiH-U&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=4"
     },
     {
       "id": 20,
-      "categoriaId": 5,
+      "categoriaId": 4,
       "titulo": "CAMPEÃO DA MUITO DANO COMO SUPORTE OU MID - ZYRA FULL AP É IMORAL MESMO - League of Legends",
       "url": "https://www.youtube.com/watch?v=ll6IV3f8FZI&list=PLM_Yrr1H1cg63BXnLW7AedoM1lYIiBK6C&index=6"
+    },
+    {
+      "titulo": "A NOVA MODA AGORA É FAZER SYLAS TOP DE AGILIDADES NOS PÉS + HEXTEC GLP - League of Legends",
+      "url": "https://www.youtube.com/watch?v=fnHxZWODK0Q",
+      "categoriaId": 2,
+      "id": 21
     }
   ]
 }

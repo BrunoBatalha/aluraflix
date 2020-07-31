@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import useForm from '../../../hooks/useForm';
 
 function CadastroCategoria() {
   const URL = `${process.env.REACT_APP_BACKEND}/categorias`;
@@ -11,15 +12,9 @@ function CadastroCategoria() {
     descricao: '',
     cor: '#000',
   };
+  const { handleChange, values, clearForm } = useForm(valoresIniciais);
   const [categorias, setCategorias] = useState([]);
-  const [values, setValues] = useState(valoresIniciais);
 
-  function setValue(chave, valor) {
-    setValues({
-      ...values,
-      [chave]: valor,
-    });
-  }
   useEffect(() => {
     fetch(URL)
       .then(async (respostaDoServidor) => {
@@ -27,10 +22,6 @@ function CadastroCategoria() {
         setCategorias([...resposta]);
       });
   }, [URL]);
-
-  function handleChange(e) {
-    setValue(e.target.name, e.target.value);
-  }
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -49,7 +40,7 @@ function CadastroCategoria() {
         }
       });
 
-    setValues(valoresIniciais);
+    clearForm();
   }
 
   return (
@@ -59,9 +50,7 @@ function CadastroCategoria() {
         {' '}
         {values.titulo}
       </h1>
-      <form
-        onSubmit={handleSubmit}
-      >
+      <form onSubmit={handleSubmit}>
         <FormField
           label="Título da Categoria"
           type="text"
