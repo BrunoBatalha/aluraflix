@@ -20,12 +20,26 @@ export const VideoCardContainer = styled.a`
   padding: 16px;
 
   transition: opacity .3s;
-  &:hover,
-  &:focus {
-    opacity: .5;
-  }
-  
+   
   &:not(:first-child) {
     margin-left: 20px;
   }
+`;
+
+VideoCardContainer.Title = styled.h4`
+  position:absolute;
+  padding: 5%;
+  opacity: 0;
+  bottom: 0;   
+  text-decoration: none;
+  transition: all .5s;
+  background-color: rgb(0,0,0,.8);
+`;
+
+export const WrapperCard = styled.div`
+  position: relative;
+  &:hover a,
+  &:focus a{
+    opacity: 1;
+  } 
 `;
